@@ -282,12 +282,3 @@ clips come from the same original match or recording, they may end up in
 different splits because the dataset does not provide source-recording
 grouping metadata.
 
-## Notes
-
--   The reported scores are based on 55 test videos, so they should be
-    treated as an estimate rather than a guarantee of performance on all
-    courts, camera angles, or match conditions.
--   The probabilities shown by the app are softmax scores. They are not
-    necessarily calibrated probabilities.
--   This project is intended as a video-classification aid, not a
-    replacement for an official referee's decision.
